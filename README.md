@@ -1,3 +1,3 @@
-## OpenVPN-PROXY-Setup
+### OpenVPN-PROXY-Setup
 
 [!] Disclaimer!
